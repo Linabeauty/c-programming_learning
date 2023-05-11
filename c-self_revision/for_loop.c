@@ -1,8 +1,6 @@
 #include <stdio.h>
-
 /**
- *
- */
+ *:X main - 
 int main()
 {
 	int i;
